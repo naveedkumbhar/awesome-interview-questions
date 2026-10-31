@@ -591,6 +591,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 * [Top 60+ DevOps Interview Questions &amp; Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
 * [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
+* [DevOps and SRE Scenario-Based Interview Questions](https://interview.naveedkumbhar.com)
 
 ## Algorithms
 * [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
