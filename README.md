@@ -215,6 +215,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Docker Interview Questions & Answers](https://www.interviewbit.com/docker-interview-questions/)
 * [Top 50 Docker Interview Questions & Answers](https://www.wissenhive.com/blogs/top-50-docker-interview-questions-and-answers)
 * [Top 50+ Docker Interview Questions and Answers in 2021](https://www.techgeekbuzz.com/top-docker-interview-questions/)
+* [Scenario-Based Docker & Container Interview Questions](https://interview.naveedkumbhar.com/docker/)
 
 ### Elastic
 
